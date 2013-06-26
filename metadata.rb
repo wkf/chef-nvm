@@ -1,5 +1,4 @@
-maintainer       "action.io"
-maintainer_email "dev@action.io"
+maintainer       "wkf"
 license          "MIT"
 description      "Installs/Configures nvm"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))

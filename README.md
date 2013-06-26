@@ -1,12 +1,4 @@
 Description
 ===========
 
-Requirements
-============
-
-Attributes
-==========
-
-Usage
-=====
-
+Recipe for a system install of NVM.
